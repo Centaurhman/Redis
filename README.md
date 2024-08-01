@@ -1,1 +1,1 @@
-A redis from scratch implementation in Go
+A redis from scratch implementation in Go!
